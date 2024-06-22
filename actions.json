@@ -1,0 +1,22 @@
+{
+    "title": "Donate to promote",
+    "icon": "https://example.com/icon.png",
+    "description": "Thanks",
+    "label": "Donate $SOL",
+    "links": {
+      "actions": [
+        {
+          "label": "Donate 1 $SOL",
+          "href": "https://mi-servidor.com/donar?cantidad=1&wallet=mi_wallet"
+        },
+        {
+          "label": "Donate 5 $SOL",
+          "href": "https://mi-servidor.com/donar?cantidad=5&wallet=mi_wallet"
+        },
+        {
+          "label": "Donate 10 $SOL",
+          "href": "https://mi-servidor.com/donar?cantidad=10&wallet=mi_wallet"
+        }
+      ]
+    }
+  }
